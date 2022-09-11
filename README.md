@@ -1,6 +1,6 @@
 # js-template
 
-Paylaşmış olduğum JSON dosyasında bulunan kişileri ve asistanları gruplamanız gerekiyor. 
+Paylaşmış olduğum [JSON](https://github.com/Front-End-Bootcamp/vue-bootcamp/blob/d6f881aec77f15a4107eafc10f6a91e90f9268a4/homework%201/data.json) dosyasında bulunan kişileri ve asistanları gruplamanız gerekiyor. 
 
 Aşağıdaki gibi bulunan JSON dosyasının;
 ```
